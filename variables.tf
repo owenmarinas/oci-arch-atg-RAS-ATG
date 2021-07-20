@@ -3,23 +3,23 @@
 
 # Variables
 variable "tenancy_ocid" {
-  default = "ocid1.tenancy.oc1..aaaaaaaavzkjbr2glkhsqhy7k4j3zrxekf6qxnve6k5fb2q7df7degbnjida"
+  default = "ocid1.tenancy.oc1..aaaa...7df7degbnjida"
 }
 
 variable "compartment_ocid" {
-  default = "ocid1.compartment.oc1..aaaaaaaaqkxrkhvsgsapkxyzdghtejmd424bd2yakpf7olosinxiveg4fetq"
+  default = "ocid1.compartment.oc1..aaaaaaaaqkxrkhv...osinxiveg4fetq"
 }
 
 variable "user_ocid" {
-  default = "ocid1.user.oc1..aaaaaaaakpezexke3ox5e7k3m5jn2qoqfep7xrgj2cnahpkrj7rrjozmey7q"
+  default = "ocid1.user.oc1..aaaaaaaakpezexke3ox5e...rj7rrjozmey7q"
 }
 
 variable "fingerprint" {
-  default = "fa:9f:75:9c:eb:bd:46:85:7a:cc:5c:b4:9f:26:1e:7d"
+  default = "fa:9f:75:9c:eb:bd:46:.......1e:7d"
 }
 
 variable "private_key_path" {
-  default = "/Users/owen9865/Documents/ATG/OCI-owen.marinas-06-30-01-59.pem"
+  default = "/Users/owen9865/Docu........nas-06-30-01-59.pem"
 }
 
 variable "region" {
